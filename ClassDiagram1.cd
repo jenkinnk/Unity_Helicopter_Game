@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BH_Rotor_Movement">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAiAAgABAABAAQAAAABAACEAEABAgACAYAhA=</HashCode>
+      <FileName>Assets\Scripts\BH_Rotor_Movement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera_Follow_Helicopter">
+    <Position X="3" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Camera_Follow_Helicopter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera_Switch">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAgCAAAAAEAAAAAAAAAAAAAQAAAAiAAABAAAA=</HashCode>
+      <FileName>Assets\Scripts\Camera_Switch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Detect_Helicopter_Hit">
+    <Position X="8.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Detect_Helicopter_Hit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Detect_Shell_Collision">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Detect_Shell_Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Detect_Sniper_Hit">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAEAAAIAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Detect_Sniper_Hit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Control_Display">
+    <Position X="6.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAACAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game_Control_Display.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Quit">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game_Quit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Helicopter_Shoot">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACAAAAAAIAAAAAAQgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Helicopter_Shoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Picked_Up_By_Helicopter_Detect">
+    <Position X="6.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\Picked_Up_By_Helicopter_Detect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rotate_Canon">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Rotate_Canon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sniper_Shoot">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACAAAAAAIAAAAAAQgABAAAAAAABgAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Sniper_Shoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tank_Follow">
+    <Position X="0.75" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAQmKgoAgpEAARIBSBAAgAg0YRAhQgAIAEARQ=</HashCode>
+      <FileName>Assets\Scripts\Tank_Follow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tank_Shoot">
+    <Position X="10" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAICCAAAAAAIAAAAAAQgABAAAAAAABgAAAQAAA=</HashCode>
+      <FileName>Assets\Scripts\Tank_Shoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Turret_Rotation">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAABAAIAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Turret_Rotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game_Reset">
+    <Position X="8.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Game_Reset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

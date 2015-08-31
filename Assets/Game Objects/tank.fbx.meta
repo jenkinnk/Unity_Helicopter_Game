@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: 6e164c046321a5f4db6eef7c34d01817
+timeCreated: 1428957097
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: canon_geo
+    100002: hatch_geo
+    100004: l_back_wheel_geo
+    100006: l_engine_geo
+    100008: l_front_wheel_geo
+    100010: l_steer_geo
+    100012: r_back_wheel_geo
+    100014: r_engine_geo
+    100016: r_front_wheel_geo
+    100018: r_steer_geo
+    100020: //RootNode
+    100022: turret_geo
+    400000: canon_geo
+    400002: hatch_geo
+    400004: l_back_wheel_geo
+    400006: l_engine_geo
+    400008: l_front_wheel_geo
+    400010: l_steer_geo
+    400012: r_back_wheel_geo
+    400014: r_engine_geo
+    400016: r_front_wheel_geo
+    400018: r_steer_geo
+    400020: //RootNode
+    400022: turret_geo
+    2300000: canon_geo
+    2300002: hatch_geo
+    2300004: l_back_wheel_geo
+    2300006: l_engine_geo
+    2300008: l_front_wheel_geo
+    2300010: l_steer_geo
+    2300012: r_back_wheel_geo
+    2300014: r_engine_geo
+    2300016: r_front_wheel_geo
+    2300018: r_steer_geo
+    2300020: //RootNode
+    2300022: turret_geo
+    3300000: canon_geo
+    3300002: hatch_geo
+    3300004: l_back_wheel_geo
+    3300006: l_engine_geo
+    3300008: l_front_wheel_geo
+    3300010: l_steer_geo
+    3300012: r_back_wheel_geo
+    3300014: r_engine_geo
+    3300016: r_front_wheel_geo
+    3300018: r_steer_geo
+    3300020: //RootNode
+    3300022: turret_geo
+    4300000: tank_geo
+    4300002: r_engine_geo
+    4300004: r_back_wheel_geo
+    4300006: r_steer_geo
+    4300008: r_front_wheel_geo
+    4300010: l_engine_geo
+    4300012: l_back_wheel_geo
+    4300014: l_steer_geo
+    4300016: l_front_wheel_geo
+    4300018: turret_geo
+    4300020: canon_geo
+    4300022: hatch_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
